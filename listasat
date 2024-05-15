@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:0,ERT1 HD
+http://88.99.254.101/ert1HD/index.m3u8
+#EXTINF:0,ERT1
+http://88.99.254.101/ert1/index.m3u8
+#EXTINF:0,ERT2 HD
+http://88.99.254.101/ert2HD/index.m3u8
+#EXTINF:0,ERT2
+http://88.99.254.101/ert2/index.m3u8
+#EXTINF:0,ERT3 HD
+http://88.99.254.101/ert3HD/index.m3u8
+#EXTINF:0,ERT3
+http://88.99.254.101/ert3/index.m3u8
+#EXTINF:0,MEGA HD
+http://88.99.254.101/megaHD/index.m3u8
+#EXTINF:0,ANT1 HD
+http://88.99.254.101/ant1HD/index.m3u8
+#EXTINF:0,STAR HD
+http://88.99.254.101/starHD/index.m3u8
+#EXTINF:0,ALPHA HD
+http://88.99.254.101/alphaHD/index.m3u8
+#EXTINF:0,SKAI HD
+http://88.99.254.101/skaiHD/index.m3u8
+#EXTINF:0,OPEN BEYOND HD
+http://88.99.254.101/etvHD/index.m3u8
+#EXTINF:0,OPEN BEYOND
+http://88.99.254.101/etv/index.m3u8
+#EXTINF:-1,RIK1
+http://213.7.193.54:4000/play/a00a/index.m3u8
+#EXTINF:-1,RIK2
+http://213.7.193.54:4000/play/a00b/index.m3u8
+#EXTINF:-1,RIK HD
+http://213.7.193.54:4000/play/a00e/index.m3u8
+#EXTINF:-1,OMEGA
+http://213.7.193.54:4000/play/a003/index.m3u8
+#EXTINF:-1,ANT1
+http://213.7.193.54:4000/play/a001/index.m3u8
+#EXTINF:-1,ALPHA
+http://213.7.193.54:4000/play/a00f/index.m3u8
+#EXTINF:-1,SIGMA
+http://213.7.193.54:4000/play/a006/index.m3u8
+#EXTINF:-1,CAPITAL
+http://213.7.193.54:4000/play/a009/index.m3u8
+#EXTINF:-1,ONE
+http://213.7.193.54:4000/play/a008/index.m3u8
+#EXTINF:-1,PLUS
+http://213.7.193.54:4000/play/a007/index.m3u8
+#EXTINF:-1,ERT WORLD
+http://213.7.193.54:4000/play/a00c/index.m3u8
+#EXTINF:-1,EURONEWS
+http://213.7.193.54:4000/play/a00d/index.m3u8
